@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2iKDYSg' target='_blank'><img src='https://1.bp.blogspot.com/-rOd9UhvBVOI/WhgODdd9Q9I/AAAAAAAACrc/ifqgLYWXJO0FVxJV5xi23Pej_lXxzBJiACLcBGAs/s640/0006.jpg' width='500px'/><br/>Bảng giá saigon mystery villas</a>. Liên hệ: 0932 14 66 61 -Mr Thành. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2iKDYSg' target='_blank'><img src='https://4.bp.blogspot.com/-tY7XrkFs3xw/WiVOC6WKsBI/AAAAAAAACtI/5-toJp0vdi4KRdw3Ige65f-5f4acHdc5ACLcBGAs/s320/BANNER%2BGDB.jpg' width='500px'/><br/>Dự án golden bay</a>. Liên hệ: 0932 14 66 61 -Mr Thành. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
