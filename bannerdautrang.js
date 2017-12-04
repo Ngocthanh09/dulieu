@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2iKDYSg' target='_blank'><img src='https://4.bp.blogspot.com/-vha1wylv_F4/WiVXTNOhgoI/AAAAAAAACtY/rNKHZScequAUoRaJkTGeCL0vkhdX7iLIQCLcBGAs/s640/Quang-truong.jpg' width='500px'/><br/>Dự án golden bay</a>. Liên hệ: 0932 14 66 61 -Mr Thành. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2iKDYSg' target='_blank'><img src='https://1.bp.blogspot.com/-qFxN3HV0ErA/WiVbJlKV9XI/AAAAAAAACtk/4Ct0qLGesEkC_j3bT2t_qzHFZMk7Kg2lACLcBGAs/s640/0006.jpg' width='500px'/><br/>Saigon mystery villas Q2</a>. Liên hệ: 0932 14 66 61 -Mr Thành. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
